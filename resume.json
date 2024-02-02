@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "theme": "short",
+    "rickosborne": {
+      "layout": [
+        {
+          "id": "top",
+          "sections": []
+        },
+        {
+          "id": "left",
+          "sections": [
+            "basics",
+            "education",
+            "work",
+            "volunteer",
+            "projects",
+            "languages",
+            "awards",
+            "references"
+          ]
+        },
+        {
+          "id": "right",
+          "sections": [
+            "avatar",
+            "contact",
+            "certificates",
+            "publications",
+            "skills",
+            "interests"
+          ]
+        }
+      ],
+      "titles": {
+        "contact": "Contacto",
+        "basicsEmail": "E-mail",
+        "basicsLocation": "Ubicación",
+        "basicsPhone": "Telefono",
+        "basicsProfiles": "Perfiles",
+        "basicsUrl": "URL",
+        "languages": "Idiomas",
+        "education": "Educación",
+        "certificates": "Certificados",
+        "work": "Experiencia Laboral",
+        "projects": "Proyectos",
+        "volunteer": "Voluntariado",
+        "publications": "Publicaciones",
+        "awards": "Intereses",
+        "skills": "Habilidades",
+        "interests": "Intereses",
+        "references": "Referencias"
+      }
+    }
+  },
+  "basics": {
+    "name": "Sara Giselle Miranda Rojas",
+    "email": "sarigise.miranda@gmail.com",
+    "phone": "0972179681",
+    "location": {
+      "address": "Fernando de la Mora, Py"
+    },
+    "url": "LinkedIn: sara-miranda-5a8473116  Github: saragiselle"
+  },
+  "education": [
+    {
+      "location": "San Lorenzo, Paraguay",
+      "startDate": "Julio 2014",
+      "endDate": "Noviembre 2021",
+      "institution": "Universidad Nacional de Asunción Facultad de Ingeniería",
+      "studyType": "Ingeniera Mecatrónica"
+    },
+    {}
+  ],
+  "work": [
+    {
+      "position": "Instructora de Robótica - Centro Educativo Maristas San Pablo",
+      "website": "",
+      "startDate": "Enero 2019",
+      "endDate": "Noviembre 2019",
+      "highlights": [
+        "Utilización del sistema LEGO Education We Do 2.0 para la enseñanza en el uso de herramientas educativas mediante la programación y construcción de mecanismos.",
+        "Confección de proyectos y planes a seguir para la enseñanza de robótica a niños desde el tercer al sexto grado."
+      ],
+      "company": "Centro Educativo Maristas San Pablo",
+      "location": "Asuncion, Paraguay"
+    },
+    {
+      "position": "IT Intern - Puerto Londrina S.A.",
+      "website": "",
+      "startDate": "Diciembre 2020",
+      "endDate": "Febrero 2021",
+      "highlights": [
+        "Acompañamiento en la implementación de sistemas automatizados de control de acceso de camiones.",
+        "Soporte técnico al sistema Scada del puerto, encargado de la recepción, almacenamiento y embarque de granos",
+        "Soporte técnico al sistema de red de comunicación interno del puerto (data center, switch, fibra óptica)"
+      ],
+      "company": "Puerto Londrina S.A.",
+      "location": "Villeta, Paraguay"
+    },
+    {
+      "highlights": [
+        "Elaboración de planos eléctricos para ejecución de proyectos. ",
+        "Elaboración de presupuestos y cómputos métricos.",
+        "Gestión del personal encargado de ejecutar las obras.",
+        "Contacto permanente con los clientes.",
+        "Documentación de avances de obras.",
+        "Compras de materiales y herramientas."
+      ],
+      "company": "Central Electric Ingeniería S.R.L.",
+      "position": "Project Manager - Central Electric Ingeniería S.R.L.",
+      "location": "Ypané, Paraguay",
+      "startDate": "Marzo 2021",
+      "endDate": "Presente"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Microsoft Windows",
+        "Linux - Manjaro"
+      ],
+      "name": "Sistemas operativos"
+    },
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Python",
+        "Java",
+        "C++",
+        "Matlab/Octave",
+        "PostgreSQL"
+      ],
+      "name": "Lenguajes de Programación y Bases de Datos"
+    },
+    {
+      "keywords": [
+        "Project",
+        "Word",
+        "Excel",
+        "Power Point"
+      ],
+      "name": "Microsoft Office"
+    },
+    {
+      "keywords": [
+        "Inglés Avanzado C1",
+        "Portugués Intermedio B2.1",
+        "Alemán Básico A2.2"
+      ],
+      "name": "Idiomas"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "AutoCAD",
+        "SolidWorks",
+        "Revit",
+        "SketchUp"
+      ],
+      "name": "Software de diseño"
+    },
+    {
+      "keywords": [
+        "Trabajo en equipo",
+        "Comunicación",
+        "Razonamiento Analítico",
+        "Proactividad",
+        "Entusiasmo",
+        "Adaptabilidad"
+      ],
+      "name": "Aptitudes"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "ISPSoft - PLC Delta - Ladder - Sequential Function Chart "
+      ],
+      "name": "Máquina Bobinadora de Núcleos de Transformador",
+      "description": "Proyecto Final Tesis de Grado"
+    },
+    {
+      "keywords": [
+        "Python - OpenCV - Vision por Computadora - Detección de objetos - TensorFlow - Aprendizaje Automatico "
+      ],
+      "name": "Robot Barredor",
+      "description": "Proyecto de Robótica"
+    }
+  ],
+  "awards": [
+    {
+      "date": "",
+      "awarder": "",
+      "summary": "Ingeniera Mecatrónica con experiencia en proyectos eléctricos preparándome para convertirme en desarrolladora de Software.",
+      "title": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "projects",
+    "awards"
+  ],
+  "references": [
+    {
+      "name": "Ing. Mariano Beracochea",
+      "reference": "Ingeniero Mecatronico en Fapasa."
+    },
+    {
+      "name": "MBA Ing. Francisco Gonzalez ",
+      "reference": "Docente y coordinador en la Facultad de Ingenieria de la UNA"
+    }
+  ]
+}
