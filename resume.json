@@ -187,18 +187,11 @@
       "keywords": [
         "Python - OpenCV - Vision por Computadora - Detección de objetos - TensorFlow - Aprendizaje Automatico "
       ],
-      "name": "Robot Barredor",
+      "name": "Robot Barredor, Robot Bartender",
       "description": "Proyecto de Robótica"
     }
   ],
-  "awards": [
-    {
-      "date": "",
-      "awarder": "",
-      "summary": "Ingeniera Mecatrónica con experiencia en proyectos eléctricos preparándome para convertirme en desarrolladora de Software.",
-      "title": ""
-    }
-  ],
+
   "sections": [
     "templates",
     "profile",
