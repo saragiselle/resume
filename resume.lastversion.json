@@ -1,0 +1,177 @@
+{
+  "selectedTemplate": 1,
+  "basics": {
+    "name": "Sara Giselle Miranda Rojas",
+    "email": "sarigise.miranda@gmail.com",
+    "phone": "0972179681",
+    "location": {
+      "address": "Fernando de la Mora, Paraguay"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sara-miranda-5a8473116/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Universidad Americana",
+      "location": "Asunción",
+      "studyType": "Diplomado en Gestión de Proyectos",
+      "startDate": "Jul 2024",
+      "endDate": "Nov 2024"
+    },
+    {
+      "institution": "Academia Cisco Paraguay",
+      "location": "San Lorenzo",
+      "studyType": "Certificación de Ciberseguridad (Cisco Certified Support Technician)",
+      "startDate": "Ago 2025",
+      "endDate": "Ene 2026"
+    },
+    {
+      "institution": "Universidad Nacional de Asunción - Facultad de Ingeniería",
+      "location": "San Lorenzo, Paraguay",
+      "studyType": "Ingeniera Mecatrónica",
+      "startDate": "Jul 2014",
+      "endDate": "Nov 2021"
+    }
+  ],
+  "work": [
+    {
+      "company": "Tecnoedil S.A. Constructora",
+      "position": "Encargada de Gestión Técnica y Documental - AT ITAIPU",
+      "location": "Mariano Roque Alonso, Paraguay",
+      "startDate": "Jul 2024",
+      "endDate": "Presente",
+      "highlights": [
+        "Gestionar la documentación técnica y contractual, asegurando el cumplimiento de las EETT y criterios del proyecto.",
+        "Controlar el presupuesto del proyecto, realizando seguimiento de costos y optimizando recursos para mantener rentabilidad.",
+        "Planificar y actualizar el cronograma general, coordinando equipos y subcontratistas para garantizar los hitos y fechas de entrega.",
+        "Solicitud de compras y gestión de proveedores para el abastecimiento de materiales"
+      ]
+    },
+    {
+      "company": "Central Electric Ingeniería S.R.L.",
+      "position": "Project Manager",
+      "location": "Ypané, Paraguay",
+      "startDate": "Mar 2021",
+      "endDate": "Jun 2024",
+      "highlights": [
+        "Ejecución de proyectos eléctricos desde la planificación hasta la entrega, gestionando equipos y recursos.",
+        "Diseño de planos eléctricos y elaboración de presupuestos, logrando la aprobación y satisfacción del cliente en todas las etapas.",
+        "Gestionar y supervisar al personal de obra, asegurando la calidad, seguridad y cumplimiento de los plazos establecidos.",
+        "Establecer y mantener una comunicación directa con los clientes, garantizando transparencia.",
+        null
+      ]
+    },
+    {
+      "company": "Puerto Londrina S.A.",
+      "position": "Pasante de TI",
+      "location": "Villeta, Paraguay",
+      "startDate": "Dic 2020",
+      "endDate": "Feb 2021",
+      "highlights": [
+        "Colaboración en la implementación de un sistema automatizado de control de acceso para camiones mediante tecnología RFID.",
+        "Soporte técnico al sistema SCADA, crítico para la operación de recepción, almacenamiento y embarque de granos.",
+        "Mantenimiento y configuración de la red de comunicación interna (datacenter, switches, routing)."
+      ]
+    },
+    {
+      "company": "Centro Educativo Maristas San Pablo",
+      "position": "Instructora de Robótica",
+      "location": "Asunción, Paraguay",
+      "startDate": "Ene 2019",
+      "endDate": "Nov 2019",
+      "highlights": [
+        "Diseño e implementación de planes de estudio y proyectos de robótica para niños de 3ro a 6to grado.",
+        "Enseñanza de programación y principios de mecánica utilizando el sistema LEGO Education WeDo 2.0 fomentando el pensamiento lógico y la resolución de problemas.",
+        null
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Habilidades Técnicas",
+      "keywords": [
+        "AutoCAD",
+        "SolidWorks",
+        "Revit",
+        "SketchUp",
+        "Oracle Primavera P6",
+        "Microsoft Project"
+      ]
+    },
+    {
+      "name": "Lenguajes de Programación",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "C++",
+        "Java",
+        "MATLAB",
+        "HTML/CSS",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Idiomas",
+      "keywords": [
+        null,
+        "Inglés (Avanzado - C1)",
+        "Portugués (Intermedio - B2)",
+        "Alemán (Básico - A2)"
+      ]
+    },
+    {
+      "name": "Aptitudes Profesionales",
+      "keywords": [
+        "Trabajo en equipo",
+        "Comunicación efectiva",
+        "Resolución de problemas",
+        "Proactividad",
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Máquina Bobinadora de Núcleos de Transformador",
+      "description": "Proyecto Final de Tesis de Grado",
+      "keywords": [
+        "Automatización Industrial",
+        "Programación de PLC Delta (ISPSoft)",
+        "Lenguajes Ladder y Sequential Function Chart (SFC)"
+      ]
+    },
+    {
+      "name": "Robot Barredor y Robot Bartender",
+      "description": "Proyectos de Robótica e Inteligencia Artificial",
+      "keywords": [
+        "Robótica Móvil",
+        "Visión por Computadora (OpenCV)",
+        "Detección de Objetos",
+        "Machine Learning (TensorFlow)",
+        "Programación en Python"
+      ]
+    }
+  ],
+  "awards": [],
+  "headings": {
+    "education": "Educación",
+    "work": "Experiencia Profesional",
+    "skills": "Habilidades y Competencias",
+    "projects": "Proyectos Destacados"
+  },
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
