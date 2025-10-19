@@ -1,58 +1,5 @@
 {
-  "meta": {
-    "theme": "short",
-    "rickosborne": {
-      "layout": [
-        {
-          "id": "top",
-          "sections": []
-        },
-        {
-          "id": "left",
-          "sections": [
-            "basics",
-            "education",
-            "work",
-            "volunteer",
-            "projects",
-            "languages",
-            "awards",
-            "references"
-          ]
-        },
-        {
-          "id": "right",
-          "sections": [
-            "avatar",
-            "contact",
-            "certificates",
-            "publications",
-            "skills",
-            "interests"
-          ]
-        }
-      ],
-      "titles": {
-        "contact": "Contacto",
-        "basicsEmail": "E-mail",
-        "basicsLocation": "Ubicación",
-        "basicsPhone": "Telefono",
-        "basicsProfiles": "Perfiles",
-        "basicsUrl": "URL",
-        "languages": "Idiomas",
-        "education": "Educación",
-        "certificates": "Certificados",
-        "work": "Experiencia Laboral",
-        "projects": "Proyectos",
-        "volunteer": "Voluntariado",
-        "publications": "Publicaciones",
-        "awards": "Intereses",
-        "skills": "Habilidades",
-        "interests": "Intereses",
-        "references": "Referencias"
-      }
-    }
-  },
+  "selectedTemplate": 1,
   "basics": {
     "name": "Sara Giselle Miranda Rojas",
     "email": "sarigise.miranda@gmail.com",
@@ -60,11 +7,13 @@
     "location": {
       "address": "Fernando de la Mora, Py"
     },
-    "profiles": [{
-      "network": "LinkedIn",
-      "username": "sara-miranda-5a8473116",
-      "url": "https://www.linkedin.com/in/sara-miranda-5a8473116/"
-    }]
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sara-miranda-5a8473116",
+        "url": "https://www.linkedin.com/in/sara-miranda-5a8473116/"
+      }
+    ]
   },
   "education": [
     {
@@ -73,6 +22,20 @@
       "endDate": "Noviembre 2021",
       "institution": "Universidad Nacional de Asunción Facultad de Ingeniería",
       "studyType": "Ingeniera Mecatrónica"
+    },
+    {
+      "institution": "Universidad Americana",
+      "location": "Asunción",
+      "studyType": "Diplomado en Gestión de Proyectos",
+      "startDate": "Julio 2024",
+      "endDate": "Noviembre 2024"
+    },
+    {
+      "institution": "Academia Cisco Paraguay",
+      "location": "San Lorenzo",
+      "studyType": "Nivel Entrada Técnico de Soporte Certificado de Cisco en Ciberseguridad",
+      "startDate": "Agosto 2025",
+      "endDate": "Enero 2026"
     },
     {}
   ],
@@ -95,9 +58,9 @@
       "startDate": "Diciembre 2020",
       "endDate": "Febrero 2021",
       "highlights": [
-        "Acompañamiento en la implementación de sistemas automatizados de control de acceso de camiones.",
-        "Soporte técnico al sistema Scada del puerto, encargado de la recepción, almacenamiento y embarque de granos",
-        "Soporte técnico al sistema de red de comunicación interno del puerto (data center, switch, fibra óptica)"
+        "Acompañamiento en la implementación de sistemas automatizados de control de acceso de camiones (RFID)",
+        "Soporte técnico al sistema SCADA del puerto, encargado de la recepción, almacenamiento y embarque de granos",
+        "Soporte técnico al sistema de red de comunicación interno del puerto (datacenter, configuración de switches, routing)"
       ],
       "company": "Puerto Londrina S.A.",
       "location": "Villeta, Paraguay"
@@ -115,6 +78,21 @@
       "position": "Project Manager - Central Electric Ingeniería S.R.L.",
       "location": "Ypané, Paraguay",
       "startDate": "Marzo 2021",
+      "endDate": "Junio 2024"
+    },
+    {
+      "highlights": [
+        "Revisión de Especificaciones Técnicas del proyecto para la elaboración de documentos contractuales y técnicos.",
+        "Control del presupuesto previsto y evaluación de los costos.",
+        "Actualización y planificación del cronograma general del proyecto.",
+        "Solicitud de compras relacionadas al proyecto.",
+        "Control del trabajo subcontratado para cada alcance.",
+        null
+      ],
+      "company": "Tecnoedil S.A. Constructora",
+      "position": "Encargada de Gestión Técnica y Documental - AT ITAIPU",
+      "location": "Mariano Roque Alonso, Paraguay",
+      "startDate": "Julio 2024",
       "endDate": "Presente"
     }
   ],
@@ -122,10 +100,9 @@
     {
       "level": "",
       "keywords": [
-        "Microsoft Windows",
-        "Linux - Manjaro"
-      ],
-      "name": "Sistemas operativos"
+        null,
+        null
+      ]
     },
     {
       "keywords": [
@@ -135,24 +112,25 @@
         "Python",
         "Java",
         "C++",
-        "Matlab/Octave",
+        "Matlab",
         "PostgreSQL"
       ],
-      "name": "Lenguajes de Programación y Bases de Datos"
+      "name": "Lenguajes de Programación"
     },
     {
       "keywords": [
         "Project",
         "Word",
         "Excel",
-        "Power Point"
+        "Power Point",
+        null
       ],
       "name": "Microsoft Office"
     },
     {
       "keywords": [
         "Inglés Avanzado C1",
-        "Portugués Intermedio B2.1",
+        "Portugués Intermedio B2.2",
         "Alemán Básico A2.2"
       ],
       "name": "Idiomas"
@@ -163,20 +141,27 @@
         "AutoCAD",
         "SolidWorks",
         "Revit",
-        "SketchUp"
+        "SketchUp",
+        "P6 Primavera Oracle"
       ],
-      "name": "Software de diseño"
+      "name": "Softwares"
     },
     {
       "keywords": [
         "Trabajo en equipo",
         "Comunicación",
         "Razonamiento Analítico",
+        "Flexibilidad",
         "Proactividad",
-        "Entusiasmo",
-        "Adaptabilidad"
+        null
       ],
       "name": "Aptitudes"
+    },
+    {
+      "keywords": [
+        null,
+        null
+      ]
     }
   ],
   "projects": [
@@ -195,23 +180,20 @@
       "description": "Proyecto de Robótica"
     }
   ],
-
+  "awards": [],
+  "headings": {
+    "education": "Educación",
+    "work": "Experiencia",
+    "skills": "Habilidades",
+    "projects": "Proyectos"
+  },
   "sections": [
     "templates",
     "profile",
     "education",
     "work",
+    "skills",
     "projects",
     "awards"
-  ],
-  "references": [
-    {
-      "name": "Ing. Mariano Beracochea",
-      "reference": "Ingeniero Mecatronico en Fapasa."
-    },
-    {
-      "name": "MBA Ing. Francisco Gonzalez ",
-      "reference": "Docente y coordinador en la Facultad de Ingenieria de la UNA"
-    }
   ]
 }
